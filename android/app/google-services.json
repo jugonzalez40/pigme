@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456893196035",
+    "firebase_url": "https://pigme-51084.firebaseio.com",
+    "project_id": "pigme-51084",
+    "storage_bucket": "pigme-51084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456893196035:android:c9317baded0e7194beab36",
+        "android_client_info": {
+          "package_name": "com.tst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456893196035-87ige6r2023pe1ggfjl3q26828979tn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJueuVVgK8tIUxH-WEgyhbR4JTNwJk1UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456893196035-87ige6r2023pe1ggfjl3q26828979tn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
